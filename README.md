@@ -1,30 +1,52 @@
-# College IoT website
+# 🌐 College IoT Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern and responsive website built to showcase IoT-related projects, departmental information, and academic resources. This project is designed for colleges, tech clubs, and IoT departments to display their work in a clean, structured, and visually appealing manner.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/deadlyspears-projects/v0-college-io-t-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/bvRXpjoGcGE)
+## 📌 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Live Demo](#live-demo)
+- [Project Structure](#project-structure)
 
-## Overview
+## 🧭 Overview
+The College IoT Website serves as a centralized platform to publish IoT projects, student activities, research initiatives, and departmental updates. It uses a clean UI and focuses on accessibility and performance, making it suitable for academic or organizational use.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## ✨ Features
+- Fully responsive design  
+- Project showcase with clean sections  
+- Fast and optimized static site  
+- Modular and maintainable codebase  
+- Clean UI/UX suitable for academic institutions  
+- Easy deployment on GitHub Pages, Netlify, or any static host
 
-## Deployment
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
+- (Add React/Tailwind/Bootstrap if your version uses them)  
+- Hosting: GitHub Pages or similar
 
-Your project is live at:
+## 🔗 Live Demo
+https://iotronics-club.vercel.app/
 
-**[https://vercel.com/deadlyspears-projects/v0-college-io-t-website](https://vercel.com/deadlyspears-projects/v0-college-io-t-website)**
+## 📁 Project Structure
+IoT-Website/
+│── public/
+│── styles/
+│── scripts/
+│── components/
+│── app/
+│── hooks/
+│── lib/
+│── models/
+│── README.md
+│── package.json
+│── tsconfig.json
+└── ...
 
-## Build your app
 
-Continue building your app on:
 
-**[https://v0.app/chat/projects/bvRXpjoGcGE](https://v0.app/chat/projects/bvRXpjoGcGE)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 1. Clone the repository
+```bash
+git clone https://github.com/vs5p/IoT-Website.git
